@@ -31,7 +31,7 @@
     "electron-rebuild": "^1.8.8",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.0",
     "vue-cli-plugin-electron-builder": "^1.4.4",
     "vue-template-compiler": "^2.6.10"
