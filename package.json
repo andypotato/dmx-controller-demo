@@ -27,7 +27,7 @@
     "@vue/cli-plugin-router": "^4.1.0",
     "@vue/cli-service": "^4.1.0",
     "babel-eslint": "^10.0.3",
-    "electron": "^5.0.0",
+    "electron": "^18.3.7",
     "electron-rebuild": "^1.8.8",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
